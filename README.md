@@ -4,11 +4,10 @@
 ---
 
 - Hi, I’m @coronelGuasap9809
-- I’m interested in mid-level Python and HTML + CSS + JS projects as well as Python (I'm not very experienced  ¯\\\_(ツ)_/¯ )
+- I’m interested in mid-level Python and HTML + CSS + JS projects for fun purposes
 - I’m currently learning HTML, CSS, JS and Python
-- How to reach me: Please don't. I might not/probably won't reply, just because gonk.
+- How to reach me: Please don't.
 - Pronouns: He/Him
-- Fun fact: Potatoes are edible (I know right? **WOW.** )
 - Gonk.
 
 ---
