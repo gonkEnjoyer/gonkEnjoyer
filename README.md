@@ -3,10 +3,9 @@
 
 ---
 
-- Hi, I’m @coronelGuasap9809
+- Hi, I’m @gonkEnjoer
 - I’m interested in mid-level Python and HTML + CSS + JS projects for fun purposes
 - I’m currently learning HTML, CSS, JS and Python
-- How to reach me: Please don't.
 - Pronouns: He/Him
 - Gonk.
 
