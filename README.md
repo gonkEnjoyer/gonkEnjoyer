@@ -10,8 +10,7 @@ I’m interested in medium skill-level Python, web (i.e. HTML, CSS and JS) proje
 - JavaScript
 - Godot
 - C++/Arduino
-- Some Shell scripting
-- Other stuff
+- Bash
 
 ## Projects
 
