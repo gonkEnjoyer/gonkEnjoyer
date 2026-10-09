@@ -16,8 +16,6 @@ I’m interested in medium skill-level Python, web (i.e. HTML, CSS and JS) proje
 
 The projects I do are usually small. Nothing special, overly complex or long-running. Many never even make it onto GitHub. You are free to try any of them out and modify/use them.
 
-Gonk
-
 ---
 
 ![Gonk droid my beloved](gonk.jpg)
